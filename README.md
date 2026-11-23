@@ -1,10 +1,10 @@
-# Hello everyone, my name is ForzzMinay
+# ForzzMinay👁👁
 
 **Low-level enthusiast | Backend Developer | Sysadmin**
 
 Интересуюсь тем, как всё работает под капотом: от управления памятью до развертывания серверов.
 
-- 🔭 Сейчас пишу игровой движок: [**Atmosphere-Engine**](https://github.com/ForzzMinay/Atmosphere-Engine)
+- 🔭 Сейчас пишу : [**Atmosphere-Engine**](https://github.com/ForzzMinay/Atmosphere-Engine)
 - 🌱 Учу **Go** и архитектуру бэкенда
 - ⚙️ Люблю Linux, Docker и оптимизацию
 
