@@ -1,4 +1,4 @@
-# ForzzMinay 👋
+# Hello everyone, my name is ForzzMinay
 
 **Low-level enthusiast | Backend Developer | Sysadmin**
 
