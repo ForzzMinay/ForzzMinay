@@ -36,7 +36,11 @@
 
 ### 📊 Statistics and activity || Статистика и активность
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ForzzMinay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ForzzMinay&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=38bdae&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae" alt="GitHub Streak" />
+</div>
 
 ---
 
